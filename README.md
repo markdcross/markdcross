@@ -4,7 +4,7 @@ I'm Mark Cross and I'm enrolled in the University of Richmond Coding Bootcamp. B
 
 ### What I'm working on <g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨‍💻</g-emoji>
 
-Currently improving my HTML and CSS skills and working with Bootstrap. JavaScript is up next, followed by the rest of the MERN stack.
+Proficient with HTML, CSS, Bootstrap, JavaScript, jQuery, and having a blast with AJAX.  Following this up with the rest of the MERN stack.
 
 ### Find me in the wild 🌎
 
