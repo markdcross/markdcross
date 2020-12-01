@@ -12,7 +12,7 @@ I'm currently enrolled in the University of Richmond Coding Bootcamp. Born and r
 ![Node](https://img.shields.io/badge/Backend-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a) ![Express.js](https://img.shields.io/badge/Framework-Express.js-informational?style=flat&logo=Express&logoColor=white&color=2bbc8a) ![Sequelize](https://img.shields.io/badge/ORM-Sequelize-informational?style=flat&logo=Sequelize&logoColor=white&color=2bbc8a)
 ![MySQL](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 
-![Github](https://img.shields.io/badge/Stack-Github-informational?style=flat&logo=Github&logoColor=white&color=2bbc8a) ![Heroku](https://img.shields.io/badge/Stack-Heroku-informational?style=flat&logo=Heroku&logoColor=white&color=2bbc8a) ![Netlify](https://img.shields.io/badge/Stack-Netlify-informational?style=flat&logo=Netlify&logoColor=white&color=2bbc8a) ![Postman](https://img.shields.io/badge/Stack-Postman-informational?style=flat&logo=postman&logoColor=white&color=2bbc8a)
+![Github](https://img.shields.io/badge/Stack-GitHub-informational?style=flat&logo=Github&logoColor=white&color=2bbc8a) ![Heroku](https://img.shields.io/badge/Stack-Heroku-informational?style=flat&logo=Heroku&logoColor=white&color=2bbc8a) ![Netlify](https://img.shields.io/badge/Stack-Netlify-informational?style=flat&logo=Netlify&logoColor=white&color=2bbc8a) ![Postman](https://img.shields.io/badge/Stack-Postman-informational?style=flat&logo=postman&logoColor=white&color=2bbc8a)
 
 Following this up with the rest of the MERN stack.
 
