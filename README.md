@@ -14,7 +14,7 @@ I'm currently enrolled in the University of Richmond Coding Bootcamp. Born and r
 
 ![Github](https://img.shields.io/badge/Stack-GitHub-informational?style=flat&logo=Github&logoColor=white&color=2bbc8a) ![Heroku](https://img.shields.io/badge/Stack-Heroku-informational?style=flat&logo=Heroku&logoColor=white&color=2bbc8a) ![Netlify](https://img.shields.io/badge/Stack-Netlify-informational?style=flat&logo=Netlify&logoColor=white&color=2bbc8a) ![Postman](https://img.shields.io/badge/Stack-Postman-informational?style=flat&logo=postman&logoColor=white&color=2bbc8a)
 
-Following this up with the rest of the MERN stack.
+Next up: MongoDB and React.
 
 ## Github Stats
 
