@@ -24,7 +24,7 @@ Next up: React.
 
 ## Find me in the wild 🌎
 
-[![Mark Cross's Website](https://img.icons8.com/bubbles/50/000000/domain.png)](https://markdcrossportfolio.herokuapp.com) [![Linkedin](https://img.icons8.com/officel/40/000000/linkedin.png)](https://www.linkedin.com/in/markdcross/)
+[![Mark Cross's Website](https://img.icons8.com/bubbles/50/000000/domain.png)](https://markdcross.com) [![Linkedin](https://img.icons8.com/officel/40/000000/linkedin.png)](https://www.linkedin.com/in/markdcross/)
 
 <!--
 **markdcross/markdcross** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
