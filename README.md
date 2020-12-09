@@ -6,19 +6,19 @@ I'm currently enrolled in the University of Richmond Coding Bootcamp. Born and r
 
 ## What I'm working on <g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨‍💻</g-emoji>
 
-![HTML](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a) ![CSS](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a) ![Bootstrap](https://img.shields.io/badge/Library-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=2bbc8a) ![Bulma](https://img.shields.io/badge/Library-Bulma-informational?style=flat&logo=Bulma&logoColor=white&color=2bbc8a)
-![Javascript](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a) ![jQuery](https://img.shields.io/badge/Library-jQuery-informational?style=flat&logo=jQuery&logoColor=white&color=2bbc8a) ![Jest](https://img.shields.io/badge/Framework-Jest-informational?style=flat&logo=Jest&logoColor=white&color=2bbc8a)
+![HTML](https://img.shields.io/badge/Code-HTML-informational?style=for-the-badge&logo=html5&logoColor=F2D5BB&color=F2D5BB&labelColor=163840) ![CSS](https://img.shields.io/badge/Code-CSS-informational?style=for-the-badge&logo=css3Color=F2D5BB&color=F2D5BB&labelColor=163840) ![Bootstrap](https://img.shields.io/badge/Library-Bootstrap-informational?style=for-the-badge&logo=bootstrap&logoColor=F2D5BB&color=F2D5BB&labelColor=163840) ![Bulma](https://img.shields.io/badge/Library-Bulma-informational?style=for-the-badge&logo=Bulma&logoColor=F2D5BB&color=F2D5BB&labelColor=163840)
+![Javascript](https://img.shields.io/badge/Code-Javascript-informational?style=for-the-badge&logo=javascript&logoColor=F2D5BB&color=F2D5BB&labelColor=163840) ![jQuery](https://img.shields.io/badge/Library-jQuery-informational?style=for-the-badge&logo=jQuery&logoColor=F2D5BB&color=F2D5BB&labelColor=163840) ![Jest](https://img.shields.io/badge/Framework-Jest-informational?style=for-the-badge&logo=Jest&logoColor=F2D5BB&color=F2D5BB&labelColor=163840)
 
-![Node](https://img.shields.io/badge/Backend-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a) ![Express.js](https://img.shields.io/badge/Framework-Express.js-informational?style=flat&logo=Express&logoColor=white&color=2bbc8a) ![Sequelize](https://img.shields.io/badge/ORM-Sequelize-informational?style=flat&logo=Sequelize&logoColor=white&color=2bbc8a)
-![MySQL](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+![Node](https://img.shields.io/badge/Backend-Node.js-informational?style=for-the-badge&logo=node.js&logoColor=F2D5BB&color=F2D5BB&labelColor=163840) ![Express.js](https://img.shields.io/badge/Framework-Express.js-informational?style=for-the-badge&logo=Express&logoColor=F2D5BB&color=F2D5BB&labelColor=163840) ![Sequelize](https://img.shields.io/badge/ORM-Sequelize-informational?style=for-the-badge&logo=Sequelize&logoColor=F2D5BB&color=F2D5BB&labelColor=163840)
+![MySQL](https://img.shields.io/badge/Database-MySQL-informational?style=for-the-badge&logo=mysql&logoColor=F2D5BB&color=F2D5BB&labelColor=163840) ![MongoDB](https://img.shields.io/badge/Database-MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=F2D5BB&color=F2D5BB&labelColor=163840)
 
-![Github](https://img.shields.io/badge/Stack-GitHub-informational?style=flat&logo=Github&logoColor=white&color=2bbc8a) ![Heroku](https://img.shields.io/badge/Stack-Heroku-informational?style=flat&logo=Heroku&logoColor=white&color=2bbc8a) ![Netlify](https://img.shields.io/badge/Stack-Netlify-informational?style=flat&logo=Netlify&logoColor=white&color=2bbc8a) ![Postman](https://img.shields.io/badge/Stack-Postman-informational?style=flat&logo=postman&logoColor=white&color=2bbc8a)
+![Github](https://img.shields.io/badge/Stack-GitHub-informational?style=for-the-badge&logo=Github&logoColor=F2D5BB&color=F2D5BB&labelColor=163840) ![Heroku](https://img.shields.io/badge/Stack-Heroku-informational?style=for-the-badge&logo=Heroku&logoColor=F2D5BB&color=F2D5BB&labelColor=163840) ![Netlify](https://img.shields.io/badge/Stack-Netlify-informational?style=for-the-badge&logo=Netlify&logoColor=F2D5BB&color=F2D5BB&labelColor=163840) ![Postman](https://img.shields.io/badge/Stack-Postman-informational?style=for-the-badge&logo=postman&logoColor=F2D5BB&color=F2D5BB&labelColor=163840)
 
-Next up: MongoDB and React.
+Next up: React.
 
 ## Github Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markdcross)](https://github.com/anuraghazra/github-readme-stats) ![Mark Cross's github stats](https://github-readme-stats.vercel.app/api?username=markdcross&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markdcross&title_color=F2D5BB&icon_color=F2D5BB&text_color=F2D5BB&bg_color=163840&hide_border=true)![Mark Cross's github stats](https://github-readme-stats.vercel.app/api?username=markdcross&show_icons=true&title_color=F2D5BB&icon_color=F2D5BB&text_color=F2D5BB&bg_color=163840&hide_border=true)
 
 ## Find me in the wild 🌎
 
