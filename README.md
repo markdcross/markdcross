@@ -20,7 +20,7 @@ Next up: React.
 
 ![Mark Cross's github stats](https://github-readme-stats.vercel.app/api?username=markdcross&show_icons=true&title_color=F2D5BB&icon_color=F2D5BB&text_color=F2D5BB&bg_color=163840&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markdcross&title_color=F2D5BB&icon_color=F2D5BB&text_color=F2D5BB&bg_color=163840&hide_border=true&layout=compact)
-![Mark's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=markdcross)
+
 
 ## Find me in the wild 🌎
 
