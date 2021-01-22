@@ -1,6 +1,6 @@
 # Hi, folks! 👋
 
-## My name is [Mark Cross](https://markdcross.me).
+## My name is [Mark Cross](https://markdcross.dev).
 
 I'm currently enrolled in the University of Richmond Coding Bootcamp. Born and raised in Annapolis, MD, graduate of the University of Delaware (go Blue Hens 🐓), and now Richmond local. I've spent my career in sales and sales leadership, having recently served as the head of sales for Richmond-based startup, [EdConenctive](https://www.edconnective.com/ 'EdConnective').
 
@@ -21,7 +21,7 @@ I'm currently enrolled in the University of Richmond Coding Bootcamp. Born and r
 
 ## Find me in the wild 🌎
 
-[![Mark Cross's Website](https://img.icons8.com/bubbles/50/000000/domain.png)](http://markdcross.com) [![Linkedin](https://img.icons8.com/officel/40/000000/linkedin.png)](https://www.linkedin.com/in/markdcross/)
+[![Mark Cross's Website](https://img.icons8.com/bubbles/50/000000/domain.png)](http://markdcross.dev) [![Linkedin](https://img.icons8.com/officel/40/000000/linkedin.png)](https://www.linkedin.com/in/markdcross/)
 
 <!--
 **markdcross/markdcross** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
