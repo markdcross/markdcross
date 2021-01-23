@@ -24,13 +24,13 @@ I'm currently enrolled in the University of Richmond Coding Bootcamp. Born and r
 ![Mark Cross's github stats](https://github-readme-stats.vercel.app/api?username=markdcross&show_icons=true&title_color=F2D5BB&icon_color=F2D5BB&text_color=F2D5BB&bg_color=163840&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markdcross&title_color=F2D5BB&icon_color=F2D5BB&text_color=F2D5BB&bg_color=163840&hide_border=true&layout=compact)
 
-## Words of Affirmation
+<!-- ## Words of Affirmation
 
 From our friends at [affirmations.dev](https://www.affirmations.dev/):
 
 <p>{affirmation}</p>
 
-Check back tomorrow for a new affirmation!
+Check back tomorrow for a new affirmation! -->
 
 ## Find me in the wild 🌎
 
