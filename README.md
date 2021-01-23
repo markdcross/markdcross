@@ -16,7 +16,8 @@ I'm currently enrolled in the University of Richmond Coding Bootcamp. Born and r
 ![Github](https://img.shields.io/badge/Tech-GitHub-informational?style=for-the-badge&logo=Github&logoColor=F2D5BB&color=F2D5BB&labelColor=163840) ![Heroku](https://img.shields.io/badge/Tech-Heroku-informational?style=for-the-badge&logo=Heroku&logoColor=F2D5BB&color=F2D5BB&labelColor=163840) ![Netlify](https://img.shields.io/badge/Tech-Netlify-informational?style=for-the-badge&logo=Netlify&logoColor=F2D5BB&color=F2D5BB&labelColor=163840) ![Postman](https://img.shields.io/badge/Tech-Postman-informational?style=for-the-badge&logo=postman&logoColor=F2D5BB&color=F2D5BB&labelColor=163840) ![Jest](https://img.shields.io/badge/Tech-Jest-informational?style=for-the-badge&logo=Jest&logoColor=F2D5BB&color=F2D5BB&labelColor=163840)
 
 ## Stats
-
+![Mark Cross's github stats](https://github-readme-stats.vercel.app/api?username=markdcross&show_icons=true&title_color=F2D5BB&icon_color=F2D5BB&text_color=F2D5BB&bg_color=163840&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markdcross&title_color=F2D5BB&icon_color=F2D5BB&text_color=F2D5BB&bg_color=163840&hide_border=true&layout=compact)
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -90,12 +91,7 @@ Handlebars               1 repo              ░░░░░░░░░░░�
 
 ```
 
-
-
 <!--END_SECTION:waka-->
-
-![Mark Cross's github stats](https://github-readme-stats.vercel.app/api?username=markdcross&show_icons=true&title_color=F2D5BB&icon_color=F2D5BB&text_color=F2D5BB&bg_color=163840&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markdcross&title_color=F2D5BB&icon_color=F2D5BB&text_color=F2D5BB&bg_color=163840&hide_border=true&layout=compact)
 
 <!-- ## Words of Affirmation
 
