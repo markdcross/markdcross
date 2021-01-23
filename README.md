@@ -24,14 +24,6 @@ I'm currently enrolled in the University of Richmond Coding Bootcamp. Born and r
 ![Mark Cross's github stats](https://github-readme-stats.vercel.app/api?username=markdcross&show_icons=true&title_color=F2D5BB&icon_color=F2D5BB&text_color=F2D5BB&bg_color=163840&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markdcross&title_color=F2D5BB&icon_color=F2D5BB&text_color=F2D5BB&bg_color=163840&hide_border=true&layout=compact)
 
-<p align="center">
-   <img src="https://img.shields.io/badge/language-python-blue?style"/>
-   <img src="https://img.shields.io/github/license/markdcross/waka-readme-stats"/>
-   <img src="https://img.shields.io/github/stars/markdcross/waka-readme-stats"/>
-   <img src="https://img.shields.io/github/forks/markdcross/waka-readme-stats"/>
-   <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
-</p>
-
 ## Words of Affirmation
 
 From our friends at [affirmations.dev](https://www.affirmations.dev/):
