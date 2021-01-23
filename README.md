@@ -1,6 +1,5 @@
-# Hi, folks! 👋
-
 [![Mark's GitHub Banner](./assets/banner.png)](https://markdcross.dev)
+# Hi, folks! 👋
 
 ## My name is [Mark Cross](https://markdcross.dev).
 
