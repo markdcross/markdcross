@@ -2,6 +2,9 @@
 # Hi, folks! 👋
 
 ## My name is [Mark Cross](https://markdcross.dev).
+```
+npx markdcross
+```
 
 I'm currently enrolled in the University of Richmond Coding Bootcamp. Born and raised in Annapolis, MD, graduate of the University of Delaware (go Blue Hens 🐓), and now Richmond local. I've spent my career in sales and sales leadership, having recently served as the head of sales for Richmond-based startup, [EdConenctive](https://www.edconnective.com/ 'EdConnective').
 
