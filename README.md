@@ -23,7 +23,7 @@ I'm currently enrolled in the University of Richmond Coding Bootcamp. Born and r
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markdcross&title_color=F2D5BB&icon_color=F2D5BB&text_color=F2D5BB&bg_color=163840&hide_border=true&layout=compact)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-451643%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-448503%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
