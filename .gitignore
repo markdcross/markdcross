@@ -1,1 +1,3 @@
-README.template.md
+.env
+node_modules/
+README_test.md
