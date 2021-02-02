@@ -2,7 +2,7 @@ name: Dynamic README injection
 on:
   schedule: # Run workflow automatically
     # This will make it run every hour
-    - cron: "0 * * * *"
+    - cron: '0 * * * *'
     # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
 jobs:
   get-affirmation:
@@ -30,4 +30,4 @@ jobs:
       - name: Push
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GH_TOKEN }}
