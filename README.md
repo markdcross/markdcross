@@ -8,7 +8,7 @@
 
 **_🌟Your life is about to be incredible🌟_**
 
-Check back at the top of the hour for a new affirmation!
+Check back each day for a new affirmation!
 
 #### Now where were we...
 
