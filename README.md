@@ -6,9 +6,9 @@
 
 🧘 Let's start off on the right foot with some words of affirmation from our friends at [affirmations.dev](https://www.affirmations.dev/):
 
-**_🌟Your life is about to be incredible🌟_**
+**_🌟You're doing a great job🌟_**
 
-Check back each day for a new affirmation!
+Check back at the top of the hour for a new affirmation!
 
 #### Now where were we...
 
