@@ -6,9 +6,9 @@
 
 🧘 Let's start off on the right foot with some words of affirmation from our friends at [affirmations.dev](https://www.affirmations.dev/):
 
-**_🌟Sucking at something is the first step towards being good at something🌟_**
+**_🌟Struggling is part of learning🌟_**
 
-Check back tomorrow for a new affirmation!
+Check back at the top of the hour for a new affirmation!
 
 #### Now where were we...
 
