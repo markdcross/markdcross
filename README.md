@@ -6,7 +6,7 @@
 
 🧘 Let's start off on the right foot with some words of affirmation from our friends at [affirmations.dev](https://www.affirmations.dev/):
 
-**_🌟You can do it🌟_**
+**_🌟Struggling is part of learning🌟_**
 
 Check back at the top of the hour for a new affirmation!
 
@@ -20,8 +20,8 @@ npx markdcross
 
 ## <g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨‍💻</g-emoji>What I'm working on 
 
-![React](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=F2D5BB&color=F2D5BB&labelColor=163840) ![Javascript](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=F2D5BB&color=F2D5BB&labelColor=163840) ![jQuery](https://img.shields.io/badge/Code-jQuery-informational?style=flat&logo=jQuery&logoColor=F2D5BB&color=F2D5BB&labelColor=163840) ![Node](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=F2D5BB&color=F2D5BB&labelColor=163840) ![Express.js](https://img.shields.io/badge/Code-Express.js-informational?style=flat&logo=express&logoColor=F2D5BB&color=F2D5BB&labelColor=163840)
-![MySQL](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=F2D5BB&color=F2D5BB&labelColor=163840) ![MongoDB](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=F2D5BB&color=F2D5BB&labelColor=163840) ![Sequelize](https://img.shields.io/badge/Tools-Sequelize-informational?style=flat&logo=sequelize&logoColor=F2D5BB&color=F2D5BB&labelColor=163840) ![Mongoose](https://img.shields.io/badge/Tools-mongoose-informational?style=flat&logo=mongoose&logoColor=F2D5BB&color=F2D5BB&labelColor=163840) ![Redux](https://img.shields.io/badge/Tools-Redux-informational?style=flat&logo=Redux&logoColor=F2D5BB&color=F2D5BB&labelColor=163840)
+![React](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=F2D5BB&color=F2D5BB&labelColor=163840) ![Redux](https://img.shields.io/badge/Tools-Redux-informational?style=flat&logo=Redux&logoColor=F2D5BB&color=F2D5BB&labelColor=163840) ![Javascript](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=F2D5BB&color=F2D5BB&labelColor=163840) ![jQuery](https://img.shields.io/badge/Code-jQuery-informational?style=flat&logo=jQuery&logoColor=F2D5BB&color=F2D5BB&labelColor=163840) ![Node](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=F2D5BB&color=F2D5BB&labelColor=163840) ![Express.js](https://img.shields.io/badge/Code-Express.js-informational?style=flat&logo=express&logoColor=F2D5BB&color=F2D5BB&labelColor=163840)
+![MySQL](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=F2D5BB&color=F2D5BB&labelColor=163840) ![MongoDB](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=F2D5BB&color=F2D5BB&labelColor=163840) ![Firebase](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=Firebase&logoColor=F2D5BB&color=F2D5BB&labelColor=163840) ![Sequelize](https://img.shields.io/badge/Tools-Sequelize-informational?style=flat&logo=sequelize&logoColor=F2D5BB&color=F2D5BB&labelColor=163840) ![Mongoose](https://img.shields.io/badge/Tools-mongoose-informational?style=flat&logo=mongoose&logoColor=F2D5BB&color=F2D5BB&labelColor=163840) 
 
 <details>
 <summary>🏹 Other arrows in my quiver </summary>
