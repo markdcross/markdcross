@@ -6,13 +6,13 @@
 
 🧘 Let's start off on the right foot with some words of affirmation from our friends at [affirmations.dev](https://www.affirmations.dev/):
 
-**_🌟I know you'll sort it out🌟_**
+**_🌟Your life is about to be incredible🌟_**
 
 Check back at the top of the hour for a new affirmation!
 
 #### Now where were we...
 
-I'm a full-stack JavaScript Web Developer. Born and raised in Annapolis, MD, graduate of the University of Delaware (go Blue Hens 🐓), and now Richmond local. I've spent my career in sales and sales leadership, having recently served as the head of sales for Richmond-based startup, [EdConenctive](https://www.edconnective.com/ 'EdConnective'). Check out my virtual business card in your terminal:
+I'm currently enrolled in the University of Richmond Coding Bootcamp. Born and raised in Annapolis, MD, graduate of the University of Delaware (go Blue Hens 🐓), and now Richmond local. I've spent my career in sales and sales leadership, having recently served as the head of sales for Richmond-based startup, [EdConenctive](https://www.edconnective.com/ 'EdConnective'). Check out my virtual business card in your terminal:
 
 ```
 npx markdcross
