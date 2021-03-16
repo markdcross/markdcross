@@ -6,7 +6,7 @@
 
 🧘 Let's start off on the right foot with some words of affirmation from our friends at [affirmations.dev](https://www.affirmations.dev/):
 
-**_🌟Don't worry if you find flaws in your past creations, it's because you've evolved🌟_**
+**_🌟Struggling means you're learning🌟_**
 
 Check back at the top of the hour for a new affirmation!
 
