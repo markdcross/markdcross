@@ -6,7 +6,7 @@
 
 🧘 Let's start off on the right foot with some words of affirmation from our friends at [affirmations.dev](https://www.affirmations.dev/):
 
-**_🌟I know you'll sort it out🌟_**
+**_🌟You are learning valuable lessons from yourself every day🌟_**
 
 Check back at the top of the hour for a new affirmation!
 
