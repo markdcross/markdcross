@@ -6,7 +6,7 @@
 
 🧘 Let's start off on the right foot with some words of affirmation from our friends at [affirmations.dev](https://www.affirmations.dev/):
 
-**_🌟Your life is about to be incredible🌟_**
+**_🌟It is not a sprint, it is a marathon. One step at a time🌟_**
 
 Check back at the top of the hour for a new affirmation!
 
