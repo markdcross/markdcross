@@ -6,7 +6,7 @@
 
 🧘 Let's start off on the right foot with some words of affirmation from our friends at [affirmations.dev](https://www.affirmations.dev/):
 
-**_🌟Don't forget to enjoy the journey🌟_**
+**_🌟I know you'll sort it out🌟_**
 
 Check back at the top of the hour for a new affirmation!
 
