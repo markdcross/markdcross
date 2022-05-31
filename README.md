@@ -6,7 +6,7 @@
 
 🧘 Let's start off on the right foot with some words of affirmation from our friends at [affirmations.dev](https://www.affirmations.dev/):
 
-**_🌟Success is the progressive realization of a worthy goal🌟_**
+**_🌟You're resourceful and clever🌟_**
 
 Check back at the top of the hour for a new affirmation!
 
