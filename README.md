@@ -6,12 +6,13 @@
 
 🧘 Let's start off on the right foot with some words of affirmation from our friends at [affirmations.dev](https://www.affirmations.dev/):
 
-**_🌟Failure is just another way to learn how to do something right🌟_**
+**_🌟10x engineers are a myth🌟_**
 
 Check back at the top of the hour for a new affirmation!
 
 #### Now where were we...
-I'm Mark Cross and I'm a full-stack engineer. Born and raised in Annapolis, MD, graduate of the University of Delaware (go Blue Hens 🐓), and now Richmond local. I spent the first decade and change of my career in SaaS sales and sales leadership, and now I use the lessons I've learned to build world-class software. Check out my virtual business card in your terminal:
+
+I'm currently enrolled in the University of Richmond Coding Bootcamp. Born and raised in Annapolis, MD, graduate of the University of Delaware (go Blue Hens 🐓), and now Richmond local. I've spent my career in sales and sales leadership, having recently served as the head of sales for Richmond-based startup, [EdConenctive](https://www.edconnective.com/ 'EdConnective'). Check out my virtual business card in your terminal:
 
 ```
 npx markdcross
