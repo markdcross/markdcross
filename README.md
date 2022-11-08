@@ -6,7 +6,7 @@
 
 🧘 Let's start off on the right foot with some words of affirmation from our friends at [affirmations.dev](https://www.affirmations.dev/):
 
-**_🌟It'll feel magical when it's working🌟_**
+**_🌟I'm rooting for you🌟_**
 
 Check back at the top of the hour for a new affirmation!
 
