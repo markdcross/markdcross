@@ -6,7 +6,7 @@
 
 🧘 Let's start off on the right foot with some words of affirmation from our friends at [affirmations.dev](https://www.affirmations.dev/):
 
-**_🌟If everything was easy you'd be bored🌟_**
+**_🌟Struggling means you're learning🌟_**
 
 Check back at the top of the hour for a new affirmation!
 
