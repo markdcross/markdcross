@@ -6,7 +6,7 @@
 
 🧘 Let's start off on the right foot with some words of affirmation from our friends at [affirmations.dev](https://www.affirmations.dev/):
 
-**_🌟Your life is already a miracle of chance waiting for you to shape its destiny🌟_**
+**_🌟Failure is just another way to learn how to do something right🌟_**
 
 Check back at the top of the hour for a new affirmation!
 
