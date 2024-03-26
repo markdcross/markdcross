@@ -6,7 +6,7 @@
 
 🧘 Let's start off on the right foot with some words of affirmation from our friends at [affirmations.dev](https://www.affirmations.dev/):
 
-**_🌟I give myself permission to do what is right for me🌟_**
+**_🌟You know more than you knew yesterday🌟_**
 
 Check back at the top of the hour for a new affirmation!
 
