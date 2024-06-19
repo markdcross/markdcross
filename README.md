@@ -6,7 +6,7 @@
 
 🧘 Let's start off on the right foot with some words of affirmation from our friends at [affirmations.dev](https://www.affirmations.dev/):
 
-**_🌟It is not a sprint, it is a marathon. One step at a time🌟_**
+**_🌟Whenever we’re afraid, it’s because we don’t know enough. If we understood enough, we would never be afraid🌟_**
 
 Check back at the top of the hour for a new affirmation!
 
