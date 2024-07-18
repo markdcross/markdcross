@@ -6,7 +6,7 @@
 
 🧘 Let's start off on the right foot with some words of affirmation from our friends at [affirmations.dev](https://www.affirmations.dev/):
 
-**_🌟Mistakes don't make you less capable🌟_**
+**_🌟You can do it🌟_**
 
 Check back at the top of the hour for a new affirmation!
 
