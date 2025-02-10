@@ -6,7 +6,7 @@
 
 🧘 Let's start off on the right foot with some words of affirmation from our friends at [affirmations.dev](https://www.affirmations.dev/):
 
-**_🌟Starting is the most difficult step - but you can do it🌟_**
+**_🌟You're doing a great job🌟_**
 
 Check back at the top of the hour for a new affirmation!
 
