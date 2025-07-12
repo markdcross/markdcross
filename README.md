@@ -6,7 +6,7 @@
 
 🧘 Let's start off on the right foot with some words of affirmation from our friends at [affirmations.dev](https://www.affirmations.dev/):
 
-**_🌟Sucking at something is the first step towards being good at something🌟_**
+**_🌟The path to success is to take massive, determined action🌟_**
 
 Check back at the top of the hour for a new affirmation!
 
