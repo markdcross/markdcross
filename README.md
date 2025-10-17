@@ -6,7 +6,7 @@
 
 🧘 Let's start off on the right foot with some words of affirmation from our friends at [affirmations.dev](https://www.affirmations.dev/):
 
-**_🌟You can do it🌟_**
+**_🌟Sucking at something is the first step towards being good at something🌟_**
 
 Check back at the top of the hour for a new affirmation!
 
