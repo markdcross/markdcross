@@ -6,7 +6,7 @@
 
 🧘 Let's start off on the right foot with some words of affirmation from our friends at [affirmations.dev](https://www.affirmations.dev/):
 
-**_🌟Whenever we’re afraid, it’s because we don’t know enough. If we understood enough, we would never be afraid🌟_**
+**_🌟Failure is just another way to learn how to do something right🌟_**
 
 Check back at the top of the hour for a new affirmation!
 
