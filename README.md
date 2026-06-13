@@ -6,7 +6,7 @@
 
 🧘 Let's start off on the right foot with some words of affirmation from our friends at [affirmations.dev](https://www.affirmations.dev/):
 
-**_🌟Your mind is full of brilliant ideas🌟_**
+**_🌟You're an inspiration🌟_**
 
 Check back at the top of the hour for a new affirmation!
 
