@@ -6,7 +6,7 @@
 
 🧘 Let's start off on the right foot with some words of affirmation from our friends at [affirmations.dev](https://www.affirmations.dev/):
 
-**_🌟You got this🌟_**
+**_🌟Your life is about to be incredible🌟_**
 
 Check back at the top of the hour for a new affirmation!
 
