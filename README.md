@@ -6,7 +6,7 @@
 
 🧘 Let's start off on the right foot with some words of affirmation from our friends at [affirmations.dev](https://www.affirmations.dev/):
 
-**_🌟Starting is the most difficult step - but you can do it🌟_**
+**_🌟Success is the progressive realization of a worthy goal🌟_**
 
 Check back at the top of the hour for a new affirmation!
 
