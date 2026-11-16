@@ -6,7 +6,7 @@
 
 🧘 Let's start off on the right foot with some words of affirmation from our friends at [affirmations.dev](https://www.affirmations.dev/):
 
-**_🌟You make a difference in the world by simply existing in it🌟_**
+**_🌟Nothing is impossible. The word itself says 'I’m possible!'🌟_**
 
 Check back at the top of the hour for a new affirmation!
 
